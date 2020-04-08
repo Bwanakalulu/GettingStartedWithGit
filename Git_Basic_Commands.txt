@@ -1,0 +1,16 @@
+BASIC COMMANDS
+
+$ git init                  // Initialize a local Git Repo
+$ git add <file>            // Add file(s) to index (to the staging area)
+$ git status                // Check status of working tree will display diffs between working tree and staging area
+$ git add *.html            // will add all html files to the staging area 
+$ gitt add .                // adss everything to the staging area
+$ git commit                // Commit changes to index (Puts everything in to the local repo)
+$ git rm --cached <file>    // Unstage or delete from staging area
+
+Working with Github
+$ git push                  // Push to rem Repo (credentials or SSH keys required)
+$ git pull                  // Pull latest from rem Repo
+$ git clone                 // Clones a rem Repo to your machine
+
+$ git config --global       // configure git globally $ git config --global user.name 'Bwanakalulu'
