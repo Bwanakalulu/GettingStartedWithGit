@@ -12,3 +12,5 @@ $ git clone             // Clones a rem Repo to your machine
 
 $ git --version         // Version control (git --version on cmd)
 
+$ touch app.js          // Creates a fle app.js
+
